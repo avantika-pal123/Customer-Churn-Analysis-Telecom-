@@ -1,10 +1,10 @@
 # Customer-Churn-Analysis-Telecom-
 Telecom Customer Churn Analysis using SQL Server, Power BI, and Excel to identify churn drivers, build interactive dashboards, and provide data-driven customer retention strategies.
+
+
 📌 Project Overview
 
-This project analyzes customer churn in the telecom industry using SQL Server, Power BI, and Excel. The objective is to identify the major factors influencing customer churn, uncover actionable business insights, and provide data-driven recommendations to improve customer retention.
-
-The analysis covers customer demographics, service subscriptions, billing behavior, contract details, support interactions, and payment methods to understand why customers leave and how businesses can reduce churn.
+This project analyzes customer churn in the telecom industry using SQL Server, Power BI, and Excel. The objective is to identify the major factors influencing customer churn, uncover actionable business insights, and provide data-driven recommendations to improve customer retention. The analysis covers customer demographics, service subscriptions, billing behavior, contract details, support interactions, and payment methods to understand why customers leave and how businesses can reduce churn.
 
 <img width="916" height="597" alt="image" src="https://github.com/user-attachments/assets/bdefe1b8-1f2a-44ab-908b-9d89ba1b7e30" />
 
@@ -124,11 +124,15 @@ Upsell retention-focused services
 
 
 🚀 Project Outcomes
+
 Identified key churn drivers
 Improved understanding of customer behavior
 Developed interactive dashboards for decision-making
 Proposed practical strategies to improve customer retention and revenue
+
+
 ⭐ Skills Demonstrated
+
 SQL
 Data Cleaning
 Exploratory Data Analysis (EDA)
