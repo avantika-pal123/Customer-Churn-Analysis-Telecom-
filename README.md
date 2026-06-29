@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis-Telecom-
+# Customer-Churn-Analysis-Telecom
 Telecom Customer Churn Analysis using SQL Server, Power BI, and Excel to identify churn drivers, build interactive dashboards, and provide data-driven customer retention strategies.
 
 
